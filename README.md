@@ -39,6 +39,7 @@ git clone https://github.com/your-username/smart-expense-tracker.git
 Make sure the script file (expense_tracker.py) is located in the folder where you want expenses.txt to be generated.
 
 The program will automatically create expenses.txt if it does not exist.
+
 ---
 
 ## How to Run
