@@ -1,4 +1,4 @@
-# Smart Expense Tracker 
+# Smartspend 
 
 A simple Python console application designed to help users track daily expenses and manage their monthly budget effectively.
 
@@ -6,7 +6,7 @@ A simple Python console application designed to help users track daily expenses 
 
 ## Overview
 
-Smart Expense Tracker is a beginner-friendly Python program that allows users to record expenses along with notes. Each entry is automatically timestamped and saved in a text file (`expenses.txt`) so the data remains available for future use. The program also provides a summary of total spending and remaining budget to help users build better financial habits.
+Smartspend is a beginner-friendly Python program that allows users to record expenses along with notes. Each entry is automatically timestamped and saved in a text file (`expenses.txt`) so the data remains available for future use. The program also provides a summary of total spending and remaining budget to help users build better financial habits.
 
 ---
 
